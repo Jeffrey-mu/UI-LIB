@@ -50,33 +50,33 @@ function render(_ctx, _cache) {
       default: _withCtx(() => [
         _hoisted_1
       ]),
-      _: 1 /* STABLE */
+      _: 1
     }),
     _createVNode(_component_a_button, null, {
       default: _withCtx(() => [
         _hoisted_2
       ]),
-      _: 1 /* STABLE */
+      _: 1
     }),
     _createVNode(_component_a_button, { type: "dashed" }, {
       default: _withCtx(() => [
         _hoisted_3
       ]),
-      _: 1 /* STABLE */
+      _: 1
     }),
     _createVNode(_component_a_button, { type: "text" }, {
       default: _withCtx(() => [
         _hoisted_4
       ]),
-      _: 1 /* STABLE */
+      _: 1
     }),
     _createVNode(_component_a_button, { type: "link" }, {
       default: _withCtx(() => [
         _hoisted_5
       ]),
-      _: 1 /* STABLE */
+      _: 1
     })
-  ], 64 /* STABLE_FRAGMENT */))
+  ], 64))
 }
   
     const democomponentExport = {}

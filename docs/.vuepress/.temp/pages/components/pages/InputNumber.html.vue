@@ -39,7 +39,7 @@ const defaultValue = ref('来蹭饭')
 function render(_ctx, _cache) {
   const _component_InputNumber = _resolveComponent("InputNumber")
 
-  return (_openBlock(), _createBlock(_component_InputNumber, { defaultValue: _ctx.defaultValue }, null, 8 /* PROPS */, ["defaultValue"]))
+  return (_openBlock(), _createBlock(_component_InputNumber, { defaultValue: _ctx.defaultValue }, null, 8, ["defaultValue"]))
 }
   
     const { ref } = Vue;

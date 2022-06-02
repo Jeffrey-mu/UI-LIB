@@ -8,6 +8,7 @@ const demoblockPlugin = require('vuepress-plugin-demoblock-plus')
 const {registerComponentsPlugin} = require('@vuepress/plugin-register-components')
 module.exports = {
     // 站点配置
+    base: '/UI-LIB/',
     lang: 'zh-CN',
     title: 'UI-LIB',
     description: '组件库',
