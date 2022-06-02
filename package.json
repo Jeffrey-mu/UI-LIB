@@ -1,0 +1,29 @@
+{
+  "name": "ui-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeffrey-mu/UI-LIB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeffrey-mu/UI-LIB/issues"
+  },
+  "homepage": "https://github.com/Jeffrey-mu/UI-LIB#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.46",
+    "vuepress-plugin-demoblock-plus": "^1.6.0"
+  },
+  "dependencies": {
+    "@vuepress/plugin-register-components": "^2.0.0-beta.46",
+    "ant-design-vue": "^2.2.8"
+  }
+}
