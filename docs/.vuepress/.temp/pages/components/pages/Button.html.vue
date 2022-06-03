@@ -23,8 +23,7 @@
 <span class="line"><span style="color: var(--shiki-color-text)">&lt;/</span><span style="color: var(--shiki-token-string-expression)">template</span><span style="color: var(--shiki-color-text)">&gt;</span></span>
 <span class="line"></span></code></pre>
           </div>
-        </template></demo><Button/>
-</div></template>
+        </template></demo></div></template>
 
 <script lang="ts">
       import * as Vue from 'vue'
@@ -50,33 +49,33 @@ function render(_ctx, _cache) {
       default: _withCtx(() => [
         _hoisted_1
       ]),
-      _: 1
+      _: 1 /* STABLE */
     }),
     _createVNode(_component_a_button, null, {
       default: _withCtx(() => [
         _hoisted_2
       ]),
-      _: 1
+      _: 1 /* STABLE */
     }),
     _createVNode(_component_a_button, { type: "dashed" }, {
       default: _withCtx(() => [
         _hoisted_3
       ]),
-      _: 1
+      _: 1 /* STABLE */
     }),
     _createVNode(_component_a_button, { type: "text" }, {
       default: _withCtx(() => [
         _hoisted_4
       ]),
-      _: 1
+      _: 1 /* STABLE */
     }),
     _createVNode(_component_a_button, { type: "link" }, {
       default: _withCtx(() => [
         _hoisted_5
       ]),
-      _: 1
+      _: 1 /* STABLE */
     })
-  ], 64))
+  ], 64 /* STABLE_FRAGMENT */))
 }
   
     const democomponentExport = {}
