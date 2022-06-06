@@ -13,6 +13,7 @@ module.exports = {
     title: 'UI-LIB',
     description: '组件库',
     theme: defaultTheme({
+        logo: 'https://vuepress.vuejs.org/hero.png',
         navbar,
         sidebarDepth: 2, // 侧边栏显示2级
         sidebar

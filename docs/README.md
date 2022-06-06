@@ -1,5 +1,6 @@
 ---
 home: true
+heroImage: https://vuepress.vuejs.org/hero.png
 actionText: 快速上手 →
 features:
 - title: 简洁至上

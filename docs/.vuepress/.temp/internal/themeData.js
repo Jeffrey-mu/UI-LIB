@@ -1,4 +1,5 @@
 export const themeData = {
+  "logo": "https://vuepress.vuejs.org/hero.png",
   "navbar": [
     {
       "text": "组件",
@@ -98,7 +99,6 @@ export const themeData = {
       "selectLanguageName": "English"
     }
   },
-  "logo": null,
   "darkMode": true,
   "repo": null,
   "selectLanguageText": "Languages",

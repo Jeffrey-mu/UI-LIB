@@ -5,6 +5,7 @@ export const data = {
   "lang": "zh-CN",
   "frontmatter": {
     "home": true,
+    "heroImage": "https://vuepress.vuejs.org/hero.png",
     "actionText": "快速上手 →",
     "features": [
       {
