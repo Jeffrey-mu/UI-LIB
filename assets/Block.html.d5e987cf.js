@@ -1,0 +1,1 @@
+const e={key:"v-39ee4ef7",path:"/components/pages/Block.html",title:"\u80CC\u666F\u5757",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u793A\u4F8B",slug:"\u793A\u4F8B",children:[]}],git:{updatedTime:1656396121e3,contributors:[{name:"mr-wang1009",email:"1115378579@qq.com",commits:1}]},filePathRelative:"components/pages/Block.md"};export{e as data};

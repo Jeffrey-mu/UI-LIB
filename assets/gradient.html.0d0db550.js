@@ -1,0 +1,1 @@
+const e={key:"v-54de055e",path:"/components/pages/gradient.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1656396121e3,contributors:[{name:"mr-wang1009",email:"1115378579@qq.com",commits:1}]},filePathRelative:"components/pages/gradient.md"};export{e as data};
