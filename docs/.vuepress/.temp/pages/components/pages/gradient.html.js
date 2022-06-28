@@ -1,22 +1,16 @@
 export const data = {
-  "key": "v-08bf7b6d",
-  "path": "/components/pages/Slider.html",
+  "key": "v-54de055e",
+  "path": "/components/pages/gradient.html",
   "title": "",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1654166674000,
-    "contributors": [
-      {
-        "name": "mr-wang1009",
-        "email": "1115378579@qq.com",
-        "commits": 1
-      }
-    ]
+    "updatedTime": null,
+    "contributors": []
   },
-  "filePathRelative": "components/pages/Slider.md"
+  "filePathRelative": "components/pages/gradient.md"
 }
 
 if (import.meta.webpackHot) {

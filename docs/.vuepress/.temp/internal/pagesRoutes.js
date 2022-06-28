@@ -7,10 +7,11 @@ const routeItems = [
   ["v-36b1a79b","/document/",{"title":""},["/document/index.html","/document/README.md"]],
   ["v-6ee1ea78","/document/introduction.html",{"title":"introduction"},["/document/introduction","/document/introduction.md"]],
   ["v-47bfe766","/document/tips.html",{"title":"tips"},["/document/tips","/document/tips.md"]],
+  ["v-39ee4ef7","/components/pages/Block.html",{"title":"背景块"},["/components/pages/Block","/components/pages/Block.md"]],
   ["v-b959d088","/components/pages/Button.html",{"title":""},["/components/pages/Button","/components/pages/Button.md"]],
-  ["v-5d612751","/components/pages/InputNumber.html",{"title":"Input 输入"},["/components/pages/InputNumber","/components/pages/InputNumber.md"]],
   ["v-7023202b","/components/pages/",{"title":""},["/components/pages/index.html","/components/pages/README.md"]],
-  ["v-08bf7b6d","/components/pages/Slider.html",{"title":""},["/components/pages/Slider","/components/pages/Slider.md"]],
+  ["v-54de055e","/components/pages/gradient.html",{"title":""},["/components/pages/gradient","/components/pages/gradient.md"]],
+  ["v-15e4fcc8","/components/pages/loading.html",{"title":"加载动画"},["/components/pages/loading","/components/pages/loading.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]
 

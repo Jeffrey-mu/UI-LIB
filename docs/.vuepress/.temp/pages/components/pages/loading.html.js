@@ -1,22 +1,16 @@
 export const data = {
-  "key": "v-08bf7b6d",
-  "path": "/components/pages/Slider.html",
-  "title": "",
+  "key": "v-15e4fcc8",
+  "path": "/components/pages/loading.html",
+  "title": "加载动画",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1654166674000,
-    "contributors": [
-      {
-        "name": "mr-wang1009",
-        "email": "1115378579@qq.com",
-        "commits": 1
-      }
-    ]
+    "updatedTime": null,
+    "contributors": []
   },
-  "filePathRelative": "components/pages/Slider.md"
+  "filePathRelative": "components/pages/loading.md"
 }
 
 if (import.meta.webpackHot) {

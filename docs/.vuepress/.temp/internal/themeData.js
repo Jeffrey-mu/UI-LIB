@@ -29,32 +29,6 @@ export const themeData = {
               "link": "https://tinypng.com/"
             }
           ]
-        },
-        {
-          "text": "在线服务",
-          "children": [
-            {
-              "text": "阿里云",
-              "link": "https://www.aliyun.com/"
-            },
-            {
-              "text": "腾讯云",
-              "link": "https://cloud.tencent.com/"
-            }
-          ]
-        },
-        {
-          "text": "博客指南",
-          "children": [
-            {
-              "text": "掘金",
-              "link": "https://juejin.im/"
-            },
-            {
-              "text": "CSDN",
-              "link": "https://blog.csdn.net/"
-            }
-          ]
         }
       ]
     }
@@ -63,7 +37,7 @@ export const themeData = {
   "sidebar": {
     "/components/": [
       {
-        "text": "通用",
+        "text": "button",
         "collapsable": true,
         "children": [
           {
@@ -73,22 +47,32 @@ export const themeData = {
         ]
       },
       {
-        "text": "数据录入",
+        "text": "背景",
         "collapsable": true,
         "children": [
           {
-            "text": "Slider 滑动组件",
-            "link": "/components/pages/Slider"
+            "text": "Block 背景块",
+            "link": "/components/pages/Block"
           }
         ]
       },
       {
-        "text": "数字输入框",
+        "text": "轮播图",
         "collapsable": true,
         "children": [
           {
-            "text": "InputNumber 数字输入框",
-            "link": "/components/pages/InputNumber"
+            "text": "RotationChart",
+            "link": "/components/pages/RotationChart"
+          }
+        ]
+      },
+      {
+        "text": "loading",
+        "collapsable": true,
+        "children": [
+          {
+            "text": "loading",
+            "link": "/components/pages/loading"
           }
         ]
       }
@@ -119,4 +103,17 @@ export const themeData = {
   "openInNewWindow": "open in new window",
   "toggleDarkMode": "toggle dark mode",
   "toggleSidebar": "toggle sidebar"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateThemeData) {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ themeData }) => {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  })
 }

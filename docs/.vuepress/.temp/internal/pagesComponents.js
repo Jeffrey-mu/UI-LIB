@@ -13,14 +13,16 @@ export const pagesComponents = {
   "v-6ee1ea78": defineAsyncComponent(() => import(/* webpackChunkName: "v-6ee1ea78" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/document/introduction.html.vue")),
   // path: /document/tips.html
   "v-47bfe766": defineAsyncComponent(() => import(/* webpackChunkName: "v-47bfe766" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/document/tips.html.vue")),
+  // path: /components/pages/Block.html
+  "v-39ee4ef7": defineAsyncComponent(() => import(/* webpackChunkName: "v-39ee4ef7" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/components/pages/Block.html.vue")),
   // path: /components/pages/Button.html
   "v-b959d088": defineAsyncComponent(() => import(/* webpackChunkName: "v-b959d088" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/components/pages/Button.html.vue")),
-  // path: /components/pages/InputNumber.html
-  "v-5d612751": defineAsyncComponent(() => import(/* webpackChunkName: "v-5d612751" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/components/pages/InputNumber.html.vue")),
   // path: /components/pages/
   "v-7023202b": defineAsyncComponent(() => import(/* webpackChunkName: "v-7023202b" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/components/pages/index.html.vue")),
-  // path: /components/pages/Slider.html
-  "v-08bf7b6d": defineAsyncComponent(() => import(/* webpackChunkName: "v-08bf7b6d" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/components/pages/Slider.html.vue")),
+  // path: /components/pages/gradient.html
+  "v-54de055e": defineAsyncComponent(() => import(/* webpackChunkName: "v-54de055e" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/components/pages/gradient.html.vue")),
+  // path: /components/pages/loading.html
+  "v-15e4fcc8": defineAsyncComponent(() => import(/* webpackChunkName: "v-15e4fcc8" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/components/pages/loading.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/404.html.vue")),
 }

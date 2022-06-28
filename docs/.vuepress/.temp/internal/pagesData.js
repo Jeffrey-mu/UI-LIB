@@ -11,14 +11,16 @@ export const pagesData = {
   "v-6ee1ea78": () => import(/* webpackChunkName: "v-6ee1ea78" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/document/introduction.html.js").then(({ data }) => data),
   // path: /document/tips.html
   "v-47bfe766": () => import(/* webpackChunkName: "v-47bfe766" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/document/tips.html.js").then(({ data }) => data),
+  // path: /components/pages/Block.html
+  "v-39ee4ef7": () => import(/* webpackChunkName: "v-39ee4ef7" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/components/pages/Block.html.js").then(({ data }) => data),
   // path: /components/pages/Button.html
   "v-b959d088": () => import(/* webpackChunkName: "v-b959d088" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/components/pages/Button.html.js").then(({ data }) => data),
-  // path: /components/pages/InputNumber.html
-  "v-5d612751": () => import(/* webpackChunkName: "v-5d612751" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/components/pages/InputNumber.html.js").then(({ data }) => data),
   // path: /components/pages/
   "v-7023202b": () => import(/* webpackChunkName: "v-7023202b" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/components/pages/index.html.js").then(({ data }) => data),
-  // path: /components/pages/Slider.html
-  "v-08bf7b6d": () => import(/* webpackChunkName: "v-08bf7b6d" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/components/pages/Slider.html.js").then(({ data }) => data),
+  // path: /components/pages/gradient.html
+  "v-54de055e": () => import(/* webpackChunkName: "v-54de055e" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/components/pages/gradient.html.js").then(({ data }) => data),
+  // path: /components/pages/loading.html
+  "v-15e4fcc8": () => import(/* webpackChunkName: "v-15e4fcc8" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/components/pages/loading.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/wjf/Desktop/learn/UI-LIB/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }

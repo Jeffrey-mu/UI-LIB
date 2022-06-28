@@ -1,22 +1,23 @@
 export const data = {
-  "key": "v-08bf7b6d",
-  "path": "/components/pages/Slider.html",
-  "title": "",
+  "key": "v-781953ea",
+  "path": "/components/pages/JBlocl.html",
+  "title": "Input 输入",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 2,
+      "title": "基础用法",
+      "slug": "基础用法",
+      "children": []
+    }
+  ],
   "git": {
-    "updatedTime": 1654166674000,
-    "contributors": [
-      {
-        "name": "mr-wang1009",
-        "email": "1115378579@qq.com",
-        "commits": 1
-      }
-    ]
+    "updatedTime": null,
+    "contributors": []
   },
-  "filePathRelative": "components/pages/Slider.md"
+  "filePathRelative": "components/pages/JBlocl.md"
 }
 
 if (import.meta.webpackHot) {
